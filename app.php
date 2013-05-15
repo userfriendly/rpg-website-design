@@ -36,7 +36,7 @@
             body {
                 background-image: url( '/images/the-hub-of-time-by-daniel-dociu.jpg' );
                 background-repeat: repeat-y;
-                background-position: center -250px;
+                background-position: center -300px;
             }
             div.bodywrapper {
                 width: 960px;
