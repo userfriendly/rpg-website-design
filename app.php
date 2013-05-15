@@ -47,9 +47,7 @@
             div.page {
                 border-radius: 10px;
                 background-color: rgba( 255, 255, 255, 0.5 );
-                background-image: url( '/images/bg.png?foo' );
-                background-repeat: no-repeat;
-                background-position: center;
+                background-image: url( '/images/bg2.png' );
                 padding: 20px;
                 box-shadow: inset 1px 1px 0 rgba( 255, 255, 255, 0.3 ),
                             inset -1px 0 0 rgba( 255, 255, 255, 0.2 ),
