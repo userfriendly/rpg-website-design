@@ -1,7 +1,8 @@
 <?php $title = "Terminus Past"; ?>
+<?php /* seamless paper by http://goblinstock.deviantart.com/ */ ?>
 <html>
     <head>
-        <title>Steampunk PBEM RPG Website</title>
+        <title><?php echo $title; ?></title>
         <link href='http://fonts.googleapis.com/css?family=Asul' rel='stylesheet' type='text/css' />
         <link href='http://fonts.googleapis.com/css?family=Tangerine' rel='stylesheet' type='text/css' />
         <link href='http://fonts.googleapis.com/css?family=Pirata+One' rel='stylesheet' type='text/css' />
@@ -34,20 +35,19 @@
             \*____________*/
             body {
                 background-image: url( '/images/the-hub-of-time-by-daniel-dociu.jpg' );
-                background-repeat: no-repeat;
-                background-position: center;
+                background-repeat: repeat-y;
+                background-position: center -250px;
             }
             div.bodywrapper {
                 width: 960px;
-                margin: 20px auto;
+                margin: 0 auto 40px;
                 color: white;
                 text-shadow: 1px 1px 1px rgba( 0, 0, 0, 0.3 );
-                margin-bottom: 40px;
             }
             div.page {
-                border-radius: 10px;
+                border-radius: 3px;
                 background-color: rgba( 255, 255, 255, 0.5 );
-                background-image: url( '/images/bg2.png' );
+                background-image: url( '/images/seamless-paper.png' );
                 padding: 20px;
                 box-shadow: inset 1px 1px 0 rgba( 255, 255, 255, 0.3 ),
                             inset -1px 0 0 rgba( 255, 255, 255, 0.2 ),
@@ -88,6 +88,96 @@
                 <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
                 <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
                 <h2>This is also a headline</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is another headline</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is also a headline</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is another headline</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is also a headline</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
+                <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
+                <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
+                <h2>This is a headline still</h2>
                 <p>Hodor hodor hodor. Hodor. Hodor hodor.</p>
                 <p>Hodor. Hodor hodor. Hodor? Hodor.</p>
                 <h2>This is a headline still</h2>
