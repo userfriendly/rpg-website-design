@@ -106,9 +106,7 @@
             </div>
             <div class="page">
                 <p class="blurb">
-                    "Oh, I know. You're from the future. And you came here to
-                    change, prevent, or cause a row of incredibly
-                    important events.
+                    "Oh, I know. You're from the future.
                     And I'm supposed to be surprised or incredulous or
                     some such thing.
                     Am I right? Of course I'm right.
@@ -132,8 +130,14 @@
                 </p>
                 <h1>Setting</h1>
                 <p>
-                    Alternate history Europe, mostly London,
+                    An alternate history Europe
                     between 1900 and 1910.
+                    While the continent is seething with tensions,
+                    England's smartest minds are the country's
+                    first and last line of defence against
+                    regular incursions by scallywags,
+                    vandals and criminals from the future.
+                    
                 </p>
                 <h1>Characters</h1>
                 <img class="character textwrap right" src="/images/tsiolkovsky.jpg" />
