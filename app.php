@@ -76,6 +76,7 @@
             div.title {
                 font-family: 'Pirata One', serif;
                 font-size: 48pt;
+                font-weight: bold;
                 text-shadow: 0 0 12px rgba( 170, 150, 130, 1 );
             }
             h2 {
@@ -84,12 +85,12 @@
                 margin: 10px 0 6px;
             }
             p {
-              text-indent: 1.5em;
-              margin: 10px 0;
+                text-indent: 1.5em;
+                margin: 10px 0;
             }
             p.blurb {
-              font-style: italic;
-              margin: 10px 0;
+                font-style: italic;
+                margin: 10px 0;
             }
             a {
                 color: black;
