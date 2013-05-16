@@ -37,7 +37,7 @@
                             inset 0 -1px 1px rgba( 0, 0, 0, 0.5 ),
                             0 0 3px rgba( 0, 0, 0, 0.3 );
                 text-shadow: 1px 1px 1px rgba( 0, 0, 0, 0.3 );
-                
+
             }
             div.footerwrapper {
                 position: fixed;
@@ -107,17 +107,18 @@
             <div class="page">
                 <p class="blurb">
                     "Oh, I know. You're from the future.
-                    And I'm supposed to be surprised or incredulous or
-                    some such thing.
+                    And I'm supposed to be surprised
+                    or incredulous or some such thing.
                     Am I right? Of course I'm right.
-                    Well, let me tell you something. You people have no idea how
+                    Well, let me tell you something.
+                    You people have no idea how
                     incredibly annoying you are.
-                    In any given timeline, somewhere at some point, some
-                    nosey half-wit
-                    will find out how to travel back in time - and then
-                    what? Where do you think they end up? Huh?
-                    Who's going to clean up the mess they create?
-                    Yeah,
+                    In any given timeline, somewhere
+                    at some point, some nosey half-wit
+                    will figure out how to travel back in
+                    time - and then what? Where do you think
+                    they end up? Huh? Who's going to clean up
+                    the mess they make? Yeah,
                     I'm sure it sounds all totally dandy to you
                     - hey, let's
                     manipulate this, change that. Save this
@@ -135,9 +136,9 @@
                     While the continent is seething with tensions,
                     England's smartest minds are the country's
                     first and last line of defence against
-                    regular incursions by scallywags,
-                    vandals and criminals from the future.
-                    
+                    regular incursions by vandals, misfits
+                    and criminals from the future.
+
                 </p>
                 <h1>Characters</h1>
                 <img class="character textwrap right" src="/images/tsiolkovsky.jpg" />
