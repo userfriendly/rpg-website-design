@@ -124,7 +124,7 @@
                     - hey, let's
                     manipulate this, change that. Save this
                     girl, kill that guy.
-                    Well, guess what, Robinson? Not you, not today.
+                    Well, guess what, Robinson? Not today, and not you.
                     You're nicked!
                 </p>
                 <p class="blurb">
@@ -143,32 +143,25 @@
                 </p>
                 <h1>Characters</h1>
                 <img class="character textwrap right" src="/images/tsiolkovsky.jpg" />
-                <h2>Konstantin Tsiolkovsky</h2>
+                <h2 style="text-align: right;">Konstantin Tsiolkovsky</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    Emigrated to England because no-one in czarist Russia would publish his works, Konstantin Tsiolkovsky
+                    finally has the time, resources and funding required to continue his research. Massively ahead of his
+                    time, the former High School Maths teacher is laying the very foundation for the coming space age.
                 </p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    Proud of his all-metal dirigibles already being built in Britain and Germany,
+                    his current project is much more
+                    ambitious - putting a man-made object into an orbit around Earth.
                 </p>
                 <img class="character textwrap left" src="/images/hedda.jpg" />
                 <h2>Hedda Blunt-Lytton</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    The great-granddaughter of Ada Lovelace, Hedda is to inherit the family business upon coming of age.
                 </p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    <i>Babbage Lovelace Analytical Engines</i> is one of Britain's most prosperous private enterprises,
+                    and was founded by Lovelace and Charles Babbage in the middle of the 19th century.
                 </p>
                 <br style="clear: both;" />
             </div>
@@ -179,7 +172,7 @@
                 &nbsp;
                 is a private invitation-only role-playing game
                 <span class="horizontal-separator">&bull;</span>
-                Website design by
+                Website design and hosting by
                 <a href="http://www.writtengames.com">Written Games</a>
                 <span class="horizontal-separator">&bull;</span>
                 Background image by
